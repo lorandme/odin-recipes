@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project on GitHub, where I am creating a recipes page following The Odin Project, where I'm using HTML to make a simple site used for recipes, but the main aspect of this project is the ability to upload files and commit messages on Github using Git.

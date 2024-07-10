@@ -1,0 +1,64 @@
+body {
+    text-align:center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.main {
+    background-color:#02794b;
+  
+}
+
+
+
+.lasagna {
+    background-color:#5f3932;
+  
+}
+
+.banana-bread {
+    background-color: #432a53;
+
+}
+
+.pancakes {
+    background-color: #dad5c3;
+
+}
+
+.headings {
+    color: rgb(226, 235, 145);
+}
+
+
+
+.banana-bread .headings {
+    color: rgb(218, 250, 75);
+}
+
+.pancakes p, .pancakes li {
+    color:rgb(20, 20, 20)
+}
+
+.pancakes .headings {
+    color: rgb(214, 139, 53);
+}
+
+h1 {
+    font-size: 150px;
+}
+
+h2 {
+    font-size: 100px
+}
+
+ul, ol{
+    margin: auto;
+    display: table;
+    text-align: left;
+}
+
+p,li,ol{
+    color:aliceblue;
+    font-size: 30px;
+}
+
